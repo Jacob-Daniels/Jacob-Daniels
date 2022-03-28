@@ -35,6 +35,8 @@
 - Remove links from images
 - Tidy up
 - Customise itch.io profile page
+- add a table for experience in & strong languages
+- look at background for the images being added, can't see the 'Unity' logo
 -->
 
 <!--
