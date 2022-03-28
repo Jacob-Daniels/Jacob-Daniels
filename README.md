@@ -27,8 +27,15 @@
 ### 🛠️Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" height="50" width="50" </img>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original-wordmark.svg" height="50" width="50" </img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" height="50" width="50" </img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original-wordmark.svg" height="50" width="50" </img>
 </div>
+
+<!-- TO DO
+- Remove links from images
+- Tidy up
+- Customise itch.io profile page
+-->
 
 <!--
 HELPFUL LINKS: To setup 'README.md'
