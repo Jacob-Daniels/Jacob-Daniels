@@ -37,3 +37,6 @@
   <img src="https://img.shields.io/static/v1?logo=css3&message=CSS&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="CSS" height="25"/>
 </div>
 
+<!-- Notes:
+Add a graph to show languages used in projects (On profile page. Use links saved in discord for help)
+-->
