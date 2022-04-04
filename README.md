@@ -7,7 +7,6 @@
 <div id="badges" align="center">
   <a href="https://yayacob.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=red&style=for-the-badge" alt="Itch.io Account"/></a>
   <a href="https://devpost.com/JSD54321?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/DevPost-black?logo=devpost&logoColor=0A6ABB&style=for-the-badge" alt="DevPost Account"/></a>
-  <a href="https://stackoverflow.com/users/14779668/jacob"><img src="https://img.shields.io/badge/Stack%20Overflow-black?logo=stackoverflow&logoColor=orange&style=for-the-badge" alt="Stack Overflow Account"/></a>
   <a href="https://www.linkedin.com/learning/me/in-progress"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=blue&style=for-the-badge" alt="LinkedIn Account"/></a>
 </div>
 
