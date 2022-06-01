@@ -15,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
   <h1>
     Welcome, I'm Jacob
-    <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="30px"/>
   </h1>
 </div>
 
