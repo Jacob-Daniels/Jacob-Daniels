@@ -21,7 +21,7 @@
 <!-- About me section -->
 ---
 ### 👨‍💻About Me:
-- I am a first year student at Manchester Metropolitan University, studying Computer Games Development
+- I am a second year student at Manchester Metropolitan University, studying Computer Games Development
 
 <!-- Programming Languages & Skills -->
 ---
