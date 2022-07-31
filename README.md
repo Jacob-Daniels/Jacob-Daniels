@@ -4,32 +4,39 @@
 </div>
 
 <!-- Social Media logos/badges -->
-<div id="badges" align="center">
-  <a href="https://yayacob.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=red&style=for-the-badge" alt="Itch.io Account"/></a>
-  <a href="https://devpost.com/JSD54321?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/DevPost-black?logo=devpost&logoColor=0A6ABB&style=for-the-badge" alt="DevPost Account"/></a>
-  <a href="https://www.jacobdaniels.org/"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
-</div>
-
-<!-- Profile view counter and Welcome message -->
-<div id="welcomeHeader" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
+<div id="WelcomeHeader" align="center">
   <h1>
     Welcome, I'm Jacob
   </h1>
-  <h3>
-    Check out my portfolio for a more clear and detailed explanation of the projects I have worked on.
-  </h3>
+  <a href="https://yayacob.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=red&style=for-the-badge" alt="Itch.io Account"/></a>
+  <a href="https://devpost.com/JSD54321?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/DevPost-black?logo=devpost&logoColor=0A6ABB&style=for-the-badge" alt="DevPost Account"/></a>
+  <a href="https://www.jacobdaniels.org/"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
+</div>
+
+<!--- Portfolio Information --->
+<div id="PortfolioInformation">
+  <hr>
+  <h3>📄Portfolio:</h3>
+  <ul>
+    <li>Check out my <a href="https://www.jacobdaniels.org/">portfolio</a> for a more clear and detailed explanation of the projects I have worked on.</li>
+  </ul>
 </div>
 
 <!-- About me section -->
----
-### 👨‍💻About Me:
-- I am a second year student at Manchester Metropolitan University, studying Computer Games Development
+<div id="AboutMe">
+  <hr>
+  <h3>👨‍💻About Me:</h3>
+  <ul>
+    <li>I am a second year student at Manchester Metropolitan University, studying Computer Games Development</li>
+  </ul>
+</div>
 
 <!-- Programming Languages & Skills -->
----
-### 🛠️Languages and Tools
-<div>
+<div id="LanguagesAndTools">
+  <hr>
+  <h3>🛠️Languages and Tools</h3>
   <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&style=flat" alt="Unity" height="25"/>
     <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="C#" height="25"/>
   <img src="https://img.shields.io/static/v1?logo=java&message=Java&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="Java" height="25"/>
