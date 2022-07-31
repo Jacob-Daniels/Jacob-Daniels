@@ -11,6 +11,7 @@
   <a href="https://yayacob.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=red&style=for-the-badge" alt="Itch.io Account"/></a>
   <a href="https://devpost.com/JSD54321?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/DevPost-black?logo=devpost&logoColor=0A6ABB&style=for-the-badge" alt="DevPost Account"/></a>
   <a href="https://www.jacobdaniels.org/"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
+  <a href="https://twitter.com/DanielsSaul"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Account"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
 </div>
