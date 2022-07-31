@@ -16,6 +16,9 @@
   <h1>
     Welcome, I'm Jacob
   </h1>
+  <h3>
+    Check out my portfolio for a more clear and detailed explanation of the projects I have worked on.
+  </h3>
 </div>
 
 <!-- About me section -->
