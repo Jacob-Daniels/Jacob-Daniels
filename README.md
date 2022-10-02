@@ -13,7 +13,6 @@
   <a href="https://twitter.com/DanielsSaul"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Account"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
-  <br>
 </div>
 
 <!--- Portfolio Information --->
@@ -21,7 +20,6 @@
   <hr>
   <h3>📄Portfolio:</h3>
   <h4>Check out my <a href="https://www.jacobdaniels.org/">portfolio</a> for a more clear and detailed explanation of the projects I have worked on.</h4>
-  <br>
 </div>
 
 <!-- About me section -->
@@ -29,7 +27,6 @@
   <hr>
   <h3>👨‍💻About Me:</h3>
   <h4>I am a second year student at Manchester Metropolitan University, studying Computer Games Development</h4>
-  <br>
 </div>
 
 <!-- Programming Languages & Skills -->
