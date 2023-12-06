@@ -34,6 +34,7 @@
   <h3>🛠️Languages and Tools</h3>
   <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&style=flat" alt="Unity" height="25"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-black?logo=unrealengine&logoColor=white&style=flat" alt="Unreal Engine 5" height="25"/>
+  <img src="https://img.shields.io/badge/c++-black?logo=cplusplus&logoColor=white&style=flat" alt="C++" height="25"/>
   <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="C#" height="25"/>
   <img src="https://img.shields.io/badge/Blueprints-black?logo=blueprint&logoColor=white&style=flat" alt="Blueprints" height="25"/>
   <img src="https://img.shields.io/static/v1?logo=java&message=Java&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="Java" height="25"/>
