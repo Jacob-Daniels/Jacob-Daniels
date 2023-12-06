@@ -25,7 +25,7 @@
 <div id="AboutMe" align="center">
   <hr>
   <h3>👨‍💻About Me:</h3>
-  <h4>I am a second year student at Manchester Metropolitan University, studying Computer Games Development</h4>
+  <h4>I am a third year student at Manchester Metropolitan University, studying Computer Games Development.</h4>
 </div>
 
 <!-- Programming Languages & Skills -->
