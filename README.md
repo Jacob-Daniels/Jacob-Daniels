@@ -18,7 +18,7 @@
 <div id="PortfolioInformation" align="center">
   <hr>
   <h3>📄Portfolio:</h3>
-  <h4>Check out my <a href="https://www.jacobdaniels.org/">portfolio</a> for a more clear and detailed explanation of the projects I have worked on.</h4>
+  <h4>Check out my <a href="https://www.jacobdaniels.co.uk/">portfolio</a> for a more clear and detailed explanation of the projects I have worked on.</h4>
 </div>
 
 <!-- About me section -->
