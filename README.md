@@ -8,7 +8,7 @@
   <h1>Jacob Daniels</h1>
   <h2>Computer Games Developer</h2>
   <a href="https://yayacob.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=red&style=for-the-badge" alt="Itch.io Account"/></a>
-  <a href="https://www.jacobdaniels.org/"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
+  <a href="https://www.jacobdaniels.co.uk/"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
   <a href="https://twitter.com/DanielsSaul"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Account"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
@@ -31,12 +31,10 @@
 <!-- Programming Languages & Skills -->
 <div id="LanguagesAndTools" align="center">
   <hr>
-  <h3>🛠️Languages and Tools</h3>
+  <h3>🛠️Core Languages and Tools</h3>
   <img src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&style=flat" alt="Unity" height="25"/>
   <img src="https://img.shields.io/badge/c++-black?logo=cplusplus&logoColor=white&style=flat" alt="C++" height="25"/>
   <img src="https://img.shields.io/static/v1?logo=csharp&message=C%23&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="C#" height="25"/>
-  <img src="https://img.shields.io/static/v1?logo=java&message=Java&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="Java" height="25"/>
-  <img src="https://img.shields.io/static/v1?logo=python&message=Python&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="Python" height="25"/>
   <img src="https://img.shields.io/static/v1?logo=HTML5&message=HTML&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="HTML" height="25"/>
   <img src="https://img.shields.io/static/v1?logo=css3&message=CSS&labelColor=black&color=black&logoColor=white&label=%20&style=flat" alt="CSS" height="25"/>
 </div>
