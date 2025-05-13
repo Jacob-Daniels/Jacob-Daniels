@@ -8,7 +8,7 @@
   <h1>Jacob Daniels</h1>
   <h2>Computer Games Developer</h2>
   <a href="https://yayacob.itch.io/"><img src="https://img.shields.io/badge/Itch.io-black?logo=Itch.io&logoColor=red&style=for-the-badge" alt="Itch.io Account"/></a>
-  <a href="https://www.jacobdaniels.co.uk/"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
+  <a href="https://jacobsauldaniels7.wixsite.com/my-site-1"><img src="https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=blue&style=for-the-badge" alt="Portfolio Website"/></a>
   <a href="https://twitter.com/DanielsSaul"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue&style=for-the-badge" alt="Twitter Account"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Jacob-Daniels&style=flat-square&color=096716" alt=""/>
@@ -18,7 +18,7 @@
 <div id="PortfolioInformation" align="center">
   <hr>
   <h3>📄Portfolio:</h3>
-  <h4>Check out my <a href="https://www.jacobdaniels.co.uk/">portfolio</a> for a more clear and detailed explanation of the projects I have worked on.</h4>
+  <h4>Check out my <a href="https://jacobsauldaniels7.wixsite.com/my-site-1">portfolio</a> for a more clear and detailed explanation of the projects I have worked on.</h4>
 </div>
 
 <!-- About me section -->
